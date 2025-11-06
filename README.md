@@ -12,3 +12,5 @@ Finaalitehtävässä kilpailijoiden on suunniteltava, luotava ja kehitettävä *
 Finaalitehtävistä on nähtävillä myös arviointi- eli pisteytystaulukko. 
 
 Voit tutustua eri moduuleihin, jotka omissa kansioissaan.
+
+Voit myös tutustua EuroSkills ja WorldSkills kilpailuissa menestyneen unkarilaisen Oliver Mrakovicsin esimerkkiratkaisuun finaalitehtävistä. Hän osallistui Taitajiin osana omaa WorldSkills 2024 Lyon valmennustaan. 
